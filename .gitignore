@@ -120,7 +120,6 @@ celerybeat-schedule
 env/
 venv/
 ENV/
-CarSalesVENV/
 # Spyder project settings
 .spyderproject
 .spyproject
