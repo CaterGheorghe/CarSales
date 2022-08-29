@@ -1,2 +1,2 @@
 # CarSales
-django python app with MySQL database
+django python CRUD app with MySQL database
